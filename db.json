@@ -1,0 +1,13 @@
+{
+    "testqwerfe4r4": {
+        "product": {
+            "title": "dddd",
+            "description": "dd",
+            "sku": "3435241234",
+            "supplier": "Api..."
+        },
+        "product12": {
+            "description": "Test"
+        }
+    }
+}

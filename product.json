@@ -1,0 +1,41 @@
+{
+    "product": {
+        "title": "Banana Shirt",
+        "body_html": null,
+        "vendor": "",
+        "product_type": "",
+        "media": [
+            {
+                "id": null,
+                "alt": "",
+                "src": ""
+            }
+        ],
+        "category": "",
+        "variants": [
+            {
+                "price": "",
+                "compare_at_price": null,
+                "taxable": true,
+                "cost_per_item": null,
+                "profit": null,
+                "margin": null,
+                "inventory_quantity": 0,
+                "inventory_management": "",
+                "inventory_policy": "deny"
+            }
+        ],
+        "options": [
+            {
+                "name": "Category",
+                "values": [
+                    
+                ]
+            }
+        ],
+        "international_pricing": {
+            "manage_international_pricing": true,
+            "cost_per_country": {}
+        }
+    }
+}
